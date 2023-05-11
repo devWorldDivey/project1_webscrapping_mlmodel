@@ -1,7 +1,4 @@
-Version Control main.submain.currentchange = 0.0.1
-Project document: https://rb.gy/by11w
-
-Project details:
+<h1>Project details:</h1><br/>
 This web app allows a user to evaluate random brands by writing reviews. While writing, the user will see the sentiment score of his input updating in 
 real-time along with a proposed rating from 1 to 5.
 
@@ -16,5 +13,7 @@ To build this application we'll follow these steps:
 4. Setting a REST API and a Postgres database
 5. Dockerizing the app using Docker Compose
 6. Deploying to AZURE
+Version Control main.submain.currentchange = 0.0.1 <br/>
+Project document: https://rb.gy/by11w<br/>
 
 ![alt text](https://www.shutterstock.com/image-vector/megaphone-time-start-speech-bubble-260nw-1949373340.jpg)
