@@ -13,7 +13,9 @@ To build this application we'll follow these steps:
 4. Setting a REST API and a Postgres database
 5. Dockerizing the app using Docker Compose
 6. Deploying to AZURE
-Version Control main.submain.currentchange = 0.0.1 <br/>
+<br/>
+
+Version Control:  main.submain.currentchange = 0.0.1 <br/>
 Project document: https://rb.gy/by11w<br/>
 
 ![alt text](https://www.shutterstock.com/image-vector/megaphone-time-start-speech-bubble-260nw-1949373340.jpg)
