@@ -17,4 +17,4 @@ To build this application we'll follow these steps:
 5. Dockerizing the app using Docker Compose
 6. Deploying to AZURE
 
-![alt text](https://c8.alamy.com/comp/2C85MCP/concept-word-lets-start-on-cubes-on-a-beautiful-wooden-background-2C85MCP.jpg)
+![alt text](https://www.shutterstock.com/image-vector/megaphone-time-start-speech-bubble-260nw-1949373340.jpg)
